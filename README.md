@@ -13,6 +13,7 @@ My name is Seongsik Bae. If it's diffcult to call my name, just call me like thi
 ## Interests
 - Game Development
 - Game Engine
+- Game AI
 - Mathematics
 - English
 - Novel
