@@ -8,7 +8,7 @@ There is a really sad stroy. But this margin is too narrow to contain (~~Pierre 
 
 # About Me
 
-My name is Seongsik Bae. If it's diffcult to call my name, just call me like this Labae.
+My name is Sungsik Bae. If it's diffcult to call my name, just call me like this Labae.
 
 ## Interests
 - Game Development
