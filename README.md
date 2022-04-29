@@ -1,9 +1,7 @@
 # Hi, there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-I'm a game programmer in South Korea. However, I've never released my game.
-
-There is a really sad stroy. But this margin is too narrow to contain (~~Pierre de Fermat~~).
+I'm a game programmer in South Korea. 
 
 
 # About Me
@@ -11,8 +9,10 @@ There is a really sad stroy. But this margin is too narrow to contain (~~Pierre 
 My name is Sungsik Bae. If it's diffcult to call my name, just call me like this Labae.
 
 ## Interests
-- Game Development
+- Game Development 
+ ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)  
 - Game Engine
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 - Game AI
 - Mathematics
 - English
@@ -22,3 +22,4 @@ My name is Sungsik Bae. If it's diffcult to call my name, just call me like this
 # My Contributes
 
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Labae)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Labae&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
