@@ -21,4 +21,4 @@ My name is Sungsik Bae. If it's diffcult to call my name, just call me like this
 
 # My Contributes
 
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?Labae=Labae)](https://github.com/anuraghazra/github-readme-stats)
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Labae)](https://github.com/anuraghazra/github-readme-stats)
