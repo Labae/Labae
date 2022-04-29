@@ -6,7 +6,7 @@ I'm a game programmer in South Korea.
 
 # About Me
 
-My name is Sungsik Bae. If it's diffcult to call my name, just call me like this Labae.
+My name is **Sungsik Bae**. If it's difficult to call my name, just call me **Labae**.
 
 ## Interests
 - Game Development 
