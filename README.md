@@ -21,8 +21,4 @@ My name is Sungsik Bae. If it's diffcult to call my name, just call me like this
 
 # My Contributes
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Labae&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Labae&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Labae&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Labae&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Labae&theme=github_dark&utcOffset=8)
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?Labae=Labae)](https://github.com/anuraghazra/github-readme-stats)
